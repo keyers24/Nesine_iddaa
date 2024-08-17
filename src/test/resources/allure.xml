@@ -1,0 +1,6 @@
+<configuration>
+    <property>
+        <name>allure.results.directory</name>
+        <value>target/allure-results</value>
+    </property>
+</configuration>
